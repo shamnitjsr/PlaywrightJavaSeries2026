@@ -1,0 +1,4 @@
+INFO    2022-10-17 17:00:24,645 [main] testcases.TestProperties  - Locator properties file loaded
+INFO    2022-10-17 17:00:24,647 [main] testcases.TestProperties  - Chrome browser launched
+INFO    2022-10-17 17:00:24,647 [main] testcases.TestProperties  - entering username as trainer@way2automation.com
+INFO    2022-10-17 17:00:24,647 [main] testcases.TestProperties  - test execution completed
